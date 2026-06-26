@@ -4,7 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15b3c09e-5033-4202-9284-a7ba6e8e10bd" name="Changes" comment="" />
+    <list default="true" id="15b3c09e-5033-4202-9284-a7ba6e8e10bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Deep_Learning/Transformers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Interview/Coding_Problems.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Interview/Scenario_Based.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Interview/Theory_QnA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/MLOps/Model_Deployment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/MLOps/Model_Monitoring.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/MLOps/Pipelines.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/ML_Fundamentals/Bias_Variance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/ML_Fundamentals/Evaluation_Metrics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/ML_Fundamentals/Overfitting_Underfitting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/ML_Fundamentals/Train_Test_Split.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/ML_Fundamentals/Types_of_ML.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/NLP/LLMs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/NLP/Sentiment_Analysis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/NLP/Text_Preprocessing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/NLP/Word_Embeddings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Supervised_Learning/Decision_Trees.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Supervised_Learning/KNN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Supervised_Learning/Linear_Regression.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Supervised_Learning/Logistic_Regression.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Supervised_Learning/Naive_Bayes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Supervised_Learning/Random_Forest.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Supervised_Learning/SVM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Unsupervised_Learning/DBSCAN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Unsupervised_Learning/Hierarchical_Clustering.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Unsupervised_Learning/K_Means.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Unsupervised_Learning/PCA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/Computer_Networks/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/DSA/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/Database_MS/Questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/Database_MS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/HR_Interaction/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/System_Design/HLD/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/System_Design/LLD/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Coding.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Cheatsheets/Algorithms.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/DBMS.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Cheatsheets/Interview_Formulas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/DSA/Problems.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Cheatsheets/Metrics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/HR_Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/HR_Interaction/Questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Deep_Learning/Activation_Functions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OS.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Deep_Learning/Backpropagation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Reasoning.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Deep_Learning/CNN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/SQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Deep_Learning/LSTM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/System-Design.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Deep_Learning/Neural_Networks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Verbal.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/AI-ML/Deep_Learning/RNN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,12 +86,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "abhishukla0807-dev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abhishukla0807-dev&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/abhishukla0807-dev/CompanyWise-Placement-Preparation.git&quot;,
@@ -80,7 +130,10 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.64274323&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -88,6 +141,17 @@
       <recent name="E:\placement-prep\Knowledge-Base" />
       <recent name="E:\placement-prep\Companies\03-Infosys" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

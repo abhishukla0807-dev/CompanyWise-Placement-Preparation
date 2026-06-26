@@ -36,3 +36,11 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Keep Maven wrapper if you use it
+!.mvn/
