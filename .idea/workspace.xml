@@ -5,8 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15b3c09e-5033-4202-9284-a7ba6e8e10bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Views.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Window_Functions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Ans/Inheritence.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Internship/Platforms/Global.md" beforeDir="false" afterPath="$PROJECT_DIR$/Internship/Platforms/Global.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Internship/Platforms/India.md" beforeDir="false" afterPath="$PROJECT_DIR$/Internship/Platforms/India.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Internship/Platforms/USA.md" beforeDir="false" afterPath="$PROJECT_DIR$/Internship/Platforms/USA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Advanced_Joins.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Encapsulation/Encapsulation_vs_Abstraction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Aggregate_Functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Fundamentals/Why_OOP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/CTEs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Advanced_Joins.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Cursors.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Aggregate_Functions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/DCL.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/CTEs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/DDL.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Cursors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/DML.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/DCL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Indexes_in_SQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/DDL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Interview_Problems.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/DML.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Joins.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Indexes_in_SQL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Partitioning.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Interview_Problems.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Pivot_Unpivot.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Joins.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Practice.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Partitioning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Query_Optimization.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Pivot_Unpivot.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Practice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Stored_Procedures.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Query_Optimization.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Subqueries.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/TCL.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Stored_Procedures.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Transactions_in_SQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Subqueries.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Triggers.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/TCL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Views.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Transactions_in_SQL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/Database_MS/SQL/Window_Functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/SQL/Triggers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Classes_Objects/Access_Modifiers.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Classes_Objects/Access_Modifiers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Classes_Objects/Static_vs_NonStatic.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Classes_Objects/Static_vs_NonStatic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Classes_Objects/What_is_Class.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Classes_Objects/What_is_Class.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Classes_Objects/What_is_Object.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Classes_Objects/What_is_Object.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Classes_Objects/this_keyword.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Classes_Objects/this_keyword.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/Constructor_Chaining.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/Constructor_Chaining.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/Constructor_vs_Method.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/Constructor_vs_Method.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/Copy_Constructor.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/Copy_Constructor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/Default_Constructor.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/Default_Constructor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/Parameterized_Constructor.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/Parameterized_Constructor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/What_is_Constructor.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Constructors/What_is_Constructor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Encapsulation/Benefits.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Encapsulation/Benefits.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Encapsulation/Data_Hiding.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Encapsulation/Data_Hiding.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Encapsulation/Getters_Setters.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Encapsulation/Getters_Setters.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Encapsulation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Encapsulation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Encapsulation/What_is_Encapsulation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Encapsulation/What_is_Encapsulation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Fundamentals/Advantages_of_OOP.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Fundamentals/Advantages_of_OOP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Fundamentals/Four_Pillars.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Fundamentals/Four_Pillars.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Fundamentals/OOP_vs_POP.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Fundamentals/OOP_vs_POP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/Fundamentals/What_is_OOP.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/Fundamentals/What_is_OOP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge-Base/OOPS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge-Base/OOPS/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +114,7 @@
           </model>
         </option>
         <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
       </template>
     </option>
   </component>
@@ -91,8 +140,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\placement-prep\Knowledge-Base\Computer_Networks" />
       <recent name="E:\placement-prep\Knowledge-Base" />
+      <recent name="E:\placement-prep\Knowledge-Base\Computer_Networks" />
       <recent name="E:\placement-prep\Companies\03-Infosys" />
     </key>
   </component>
