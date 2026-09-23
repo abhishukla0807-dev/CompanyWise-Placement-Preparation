@@ -1,6 +1,5 @@
 # Master Java Interview Question Bank
 
-All questions are kept in the original wording. Repeated questions with the same wording are removed. The questions are reordered for sequential learning.
 
 ## 1. Java Foundations
 
